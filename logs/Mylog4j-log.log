@@ -1,0 +1,9 @@
+[ERROR]2023-09-1513:43:34.141[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-09-1513:43:34.145[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-09-1513:43:34.146[main]log4j.LoggerLoad1)-Warning - Testing
+[ERROR]2023-09-1612:29:58.452[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-09-1612:29:58.454[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-09-1612:29:58.455[main]log4j.LoggerLoad1)-Warning - Testing
+[ERROR]2023-09-1612:37:59.061[main]log4j.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2023-09-1612:37:59.074[main]log4j.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2023-09-1612:37:59.075[main]log4j.LoggerLoad1)-Warning - Testing
